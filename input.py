@@ -1,0 +1,5 @@
+ad=input('ismin ne')
+print ("merhaba",ad)
+print ("adınız ne")
+ad=input()
+print ("merhaba2",ad)
